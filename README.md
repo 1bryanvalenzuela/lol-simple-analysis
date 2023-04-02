@@ -13,3 +13,11 @@ Simple python script for analyzing League of Legends data.
 - Percentage of female/male champions played
 - Winrate by gender of the champions
 - Friend's winrate
+
+# Examples
+
+![User Winrate](loldata/user_winrate.png)
+
+![User Playedcount](loldata/user_playedcount.png)
+
+![User KDAMean](loldata/user_kdamean.png)
