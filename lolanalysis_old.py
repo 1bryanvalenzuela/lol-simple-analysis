@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# THIS PYTHON SCRIPT DOESNT WORK ANYMORE, RIOT API CHANGED
+# ESTE SCRIPT DE PYTHON NO FUNCIONA DEBIDO A CAMBIOS EN LA API DE RIOT
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
