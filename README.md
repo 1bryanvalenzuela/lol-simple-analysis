@@ -1,6 +1,8 @@
 # Simple League of Legends Data Script
 Simple python script for analyzing League of Legends data.
 
+You can try it on https://drive.google.com/file/d/147Eg-8uvO_w9Uxs5t3Bm8Xh5-e39cC0P/view?usp=sharing
+
 # Questions solving
 - Most played champions by user and general
 - Champions winrate by user and general
