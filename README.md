@@ -1,11 +1,11 @@
-# League of Legends Player Stats Jupyter Notebook
+# Player Analysis Notebook for League of Legends
 Jupyter Notebook for analyzing League of Legends data of an user.  
 With this you can configure the settings of the Notebook to analyze a player data and see his stats and winrate
 
 You can use it on [Google Collab - EN Version](https://colab.research.google.com/drive/147Eg-8uvO_w9Uxs5t3Bm8Xh5-e39cC0P)  
 Tambien esta en español en [Google Collab - ES Version](https://colab.research.google.com/drive/19obBBam7tgXCC4jiLdf4X3XuLjiJ62rC)
 
-# Statistics
+# Information
 
 - Winrate when user, team and enemy team gets first blood
 - Winrate when user, team and enemy team gets first tower
@@ -18,21 +18,18 @@ Tambien esta en español en [Google Collab - ES Version](https://colab.research.
 
 # Examples
 
-Print Information:  
-Total Games: 77 Winrate: 0.39 %  
+<div align="center">
+<img src="champ_winrate.png" img/>
+<div/>
 
-% of winning a game when user gets first blood: 0.4 %  
-% of winning a game when team gets first blood: 0.38 %  
-% of winning a game when enemy team gets first blood: 0.4 %  
- 
-% of winning a game when user gets first tower: 0.55 %  
-% of winning a game when team gets first tower: 0.65 %  
-% of winning a game when enemy team gets first blood: 0.22 %  
- 
-% of winning a game when team has better vision than enemy team: 0.75 %  
+<div align="center">
+<img src="with_allies_positive_winrate.png" img/>
+<div/>
 
-![User Champion Winrate](champ_winrate.png)
+<div align="center">
+<img src="minions_per_min.png" img/>
+<div/>
 
-![User Allies Positive Winrate](with_allies_positive_winrate.png)
-
-![User Minions per Minute](minions_per_min.png)
+<div align="center">
+<img src="printdata.png" img/>
+<div/>
